@@ -1,0 +1,592 @@
+# depslib dependency file v1.0
+1555984680 source:c:\users\trajano\documents\codeblocks\trabalho1\dominios.cpp
+	<iostream>
+	<cctype>
+	<sstream>
+	"dominios.h"
+
+1555982866 c:\users\trajano\documents\codeblocks\trabalho1\dominios.h
+	<stdexcept>
+
+1555984407 source:c:\users\trajano\documents\codeblocks\trabalho1\main.cpp
+	<iostream>
+	"dominios.h"
+	"testes.h"
+
+1555984441 c:\users\trajano\documents\codeblocks\trabalho1\testes.h
+	<string>
+	"dominios.h"
+
+1555984516 source:c:\users\trajano\documents\codeblocks\trabalho1\testes.cpp
+	"testes.h"
+	<iostream>
+
+1556331501 source:c:\users\mathe\desktop\codeblocks\trabalho1\main.cpp
+	<iostream>
+	"dominios.h"
+	"testesDominio.h"
+	"testesEntidade.h"
+
+1556316958 c:\users\mathe\desktop\codeblocks\trabalho1\dominios.h
+	<stdexcept>
+
+1556313042 c:\users\mathe\desktop\codeblocks\trabalho1\testes.h
+	<string>
+	"dominios.h"
+
+1556313091 source:c:\users\mathe\desktop\codeblocks\trabalho1\testes.cpp
+	"testes.h"
+	<iostream>
+
+1556316975 source:c:\users\mathe\desktop\codeblocks\trabalho1\dominios.cpp
+	<iostream>
+	<cctype>
+	<sstream>
+	"dominios.h"
+
+1556329004 source:c:\users\mathe\desktop\codeblocks\trabalho1\testesdominio.cpp
+	"testesDominio.h"
+	<iostream>
+
+1556320789 c:\users\mathe\desktop\codeblocks\trabalho1\testesdominio.h
+	<string>
+	"dominios.h"
+
+1556332072 source:c:\users\mathe\desktop\codeblocks\trabalho1\entidades.cpp
+	"entidades.h"
+
+1556331766 c:\users\mathe\desktop\codeblocks\trabalho1\entidades.h
+	"dominios.h"
+
+1556332080 source:c:\users\mathe\desktop\codeblocks\trabalho1\testesentidade.cpp
+	"testesEntidade.h"
+	<iostream>
+
+1556331844 c:\users\mathe\desktop\codeblocks\trabalho1\testesentidade.h
+	"entidades.h"
+
+1556316975 source:c:\users\trajano\desktop\codeblocks\trabalho1\dominios.cpp
+	<iostream>
+	<cctype>
+	<sstream>
+	"dominios.h"
+
+1556343420 c:\users\trajano\desktop\codeblocks\trabalho1\dominios.h
+	<stdexcept>
+
+1556332072 source:c:\users\trajano\desktop\codeblocks\trabalho1\entidades.cpp
+	"entidades.h"
+
+1556331766 c:\users\trajano\desktop\codeblocks\trabalho1\entidades.h
+	"dominios.h"
+
+1556332099 source:c:\users\trajano\desktop\codeblocks\trabalho1\main.cpp
+	<iostream>
+	"dominios.h"
+	"testesDominio.h"
+	"testesEntidade.h"
+
+1556343501 c:\users\trajano\desktop\codeblocks\trabalho1\testesdominio.h
+	<string>
+	"dominios.h"
+
+1556331844 c:\users\trajano\desktop\codeblocks\trabalho1\testesentidade.h
+	"entidades.h"
+
+1556329004 source:c:\users\trajano\desktop\codeblocks\trabalho1\testesdominio.cpp
+	"testesDominio.h"
+	<iostream>
+
+1556332080 source:c:\users\trajano\desktop\codeblocks\trabalho1\testesentidade.cpp
+	"testesEntidade.h"
+	<iostream>
+
+1556343462 source:c:\users\mathe\desktop\codeblocks5\codeblocks5.0\trabalho1\dominios.cpp
+	<iostream>
+	<cctype>
+	<sstream>
+	"dominios.h"
+
+1556345927 c:\users\mathe\desktop\codeblocks5\codeblocks5.0\trabalho1\dominios.h
+	<stdexcept>
+
+1556332072 source:c:\users\mathe\desktop\codeblocks5\codeblocks5.0\trabalho1\entidades.cpp
+	"entidades.h"
+
+1556347217 c:\users\mathe\desktop\codeblocks5\codeblocks5.0\trabalho1\entidades.h
+	"dominios.h"
+
+1556332099 source:c:\users\mathe\desktop\codeblocks5\codeblocks5.0\trabalho1\main.cpp
+	<iostream>
+	"dominios.h"
+	"testesDominio.h"
+	"testesEntidade.h"
+
+1556343501 c:\users\mathe\desktop\codeblocks5\codeblocks5.0\trabalho1\testesdominio.h
+	<string>
+	"dominios.h"
+
+1556331844 c:\users\mathe\desktop\codeblocks5\codeblocks5.0\trabalho1\testesentidade.h
+	"entidades.h"
+
+1556329004 source:c:\users\mathe\desktop\codeblocks5\codeblocks5.0\trabalho1\testesdominio.cpp
+	"testesDominio.h"
+	<iostream>
+
+1556332080 source:c:\users\mathe\desktop\codeblocks5\codeblocks5.0\trabalho1\testesentidade.cpp
+	"testesEntidade.h"
+	<iostream>
+
+1556589159 source:c:\users\mathe\desktop\trabalho 1\codigo\dominios.cpp
+	<iostream>
+	<cctype>
+	<sstream>
+	"dominios.h"
+
+1556589300 c:\users\mathe\desktop\trabalho 1\codigo\dominios.h
+	<stdexcept>
+
+1556332072 source:c:\users\mathe\desktop\trabalho 1\codigo\entidades.cpp
+	"entidades.h"
+
+1556347217 c:\users\mathe\desktop\trabalho 1\codigo\entidades.h
+	"dominios.h"
+
+1556587957 source:c:\users\mathe\desktop\trabalho 1\codigo\testesdominio.cpp
+	"testesDominio.h"
+	<iostream>
+
+1556343501 c:\users\mathe\desktop\trabalho 1\codigo\testesdominio.h
+	<string>
+	"dominios.h"
+
+1556332080 source:c:\users\mathe\desktop\trabalho 1\codigo\testesentidade.cpp
+	"testesEntidade.h"
+	<iostream>
+
+1556331844 c:\users\mathe\desktop\trabalho 1\codigo\testesentidade.h
+	"entidades.h"
+
+1556587295 source:c:\users\mathe\desktop\trabalho 1\codigo\main.cpp
+	<iostream>
+	"dominios.h"
+	"testesDominio.h"
+	"testesEntidade.h"
+
+1556589159 source:c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\dominios.cpp
+	<iostream>
+	<cctype>
+	<sstream>
+	"dominios.h"
+
+1556589300 c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\dominios.h
+	<stdexcept>
+
+1561384847 source:c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\entidades.cpp
+	"entidades.h"
+
+1561385688 c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\entidades.h
+	"dominios.h"
+
+1561512559 source:c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\main.cpp
+	<iostream>
+	"dominios.h"
+	"testesDominio.h"
+	"testesEntidade.h"
+	"interfaces.h"
+	"controladorasApresentacao.h"
+	"stubs.h"
+	"curses.h"
+	"builder.h"
+	"container.h"
+	"comandosApresentacao.h"
+
+1556343501 c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\testesdominio.h
+	<string>
+	"dominios.h"
+
+1556331844 c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\testesentidade.h
+	"entidades.h"
+
+1556587957 source:c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\testesdominio.cpp
+	"testesDominio.h"
+	<iostream>
+
+1556332080 source:c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\testesentidade.cpp
+	"testesEntidade.h"
+	<iostream>
+
+1561512624 c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	"auxiliar.h"
+	"curses.h"
+	"container.h"
+	<list>
+
+1561513164 c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\auxiliar.h
+	"dominios.h"
+	"entidades.h"
+
+1559348769 c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\controleautenticacao.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1559356745 source:c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\controleautenticacao.cpp
+	<iostream>
+	"entidades.h"
+	"dominios.h"
+	"controleAutenticacao.h"
+	"curses.h"
+	"stubs.h"
+	<string>
+
+1556320570 c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1561330917 c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\stubs.h
+	<iostream>
+	<string>
+	"curses.h"
+	"interfaces.h"
+
+1561336700 source:c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\stubs.cpp
+	"stubs.h"
+	"curses.h"
+
+1561512844 source:c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\controladorasapresentacao.cpp
+	<iostream>
+	"entidades.h"
+	"dominios.h"
+	"controladorasApresentacao.h"
+	"curses.h"
+	"stubs.h"
+	"comandosApresentacao.h"
+	<string>
+
+1561512654 c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\controladorasapresentacao.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1561512918 source:c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\comandosapresentacao.cpp
+	"comandosApresentacao.h"
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1561315147 c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\comandosapresentacao.h
+	"interfaces.h"
+
+1561515133 source:c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\builder.cpp
+	"builder.h"
+	"interfaces.h"
+	"controladorasApresentacao.h"
+	"stubs.h"
+	"container.h"
+	"dominios.h"
+	"controladorasServico.h"
+
+1561514979 c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\builder.h
+	"controladorasServico.h"
+
+1561510902 c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\container.h
+	"entidades.h"
+	<list>
+
+1561513055 c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\controladorasservico.h
+	"interfaces.h"
+	"container.h"
+
+1561513137 source:c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\container.cpp
+	"container.h"
+	"entidades.h"
+	"dominios.h"
+	"auxiliar.h"
+	"curses.h"
+
+1561512993 source:c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\controladorasservico.cpp
+	"controladorasServico.h"
+	"container.h"
+	"entidades.h"
+	"dominios.h"
+	"curses.h"
+
+1561387068 source:c:\users\mathe\documents\codeblocks2.0\trabalho em progresso\codigo\auxiliar.cpp
+	"auxiliar.h"
+	<sstream>
+
+1561387068 source:c:\users\trajano\pictures\trabalho em progresso\codigo\auxiliar.cpp
+	"auxiliar.h"
+	<sstream>
+
+1561387267 c:\users\trajano\pictures\trabalho em progresso\codigo\auxiliar.h
+	"dominios.h"
+	"entidades.h"
+
+1556589300 c:\users\trajano\pictures\trabalho em progresso\codigo\dominios.h
+	<stdexcept>
+
+1561385688 c:\users\trajano\pictures\trabalho em progresso\codigo\entidades.h
+	"dominios.h"
+
+1561426069 source:c:\users\trajano\pictures\trabalho em progresso\codigo\builder.cpp
+	"builder.h"
+	"interfaces.h"
+	"controladorasApresentacao.h"
+	"stubs.h"
+	"container.h"
+	"dominios.h"
+	"controladorasServico.h"
+
+1561342939 c:\users\trajano\pictures\trabalho em progresso\codigo\builder.h
+
+1561354171 c:\users\trajano\pictures\trabalho em progresso\codigo\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	"auxiliar.h"
+	"curses.h"
+	"container.h"
+	<list>
+
+1556320570 c:\users\trajano\pictures\trabalho em progresso\codigo\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1561443544 c:\users\trajano\pictures\trabalho em progresso\codigo\container.h
+	"entidades.h"
+	<list>
+
+1561346773 c:\users\trajano\pictures\trabalho em progresso\codigo\controladorasapresentacao.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1561330917 c:\users\trajano\pictures\trabalho em progresso\codigo\stubs.h
+	<iostream>
+	<string>
+	"curses.h"
+	"interfaces.h"
+
+1561394838 c:\users\trajano\pictures\trabalho em progresso\codigo\controladorasservico.h
+	"interfaces.h"
+	"container.h"
+
+1561442644 source:c:\users\trajano\pictures\trabalho em progresso\codigo\comandosapresentacao.cpp
+	"comandosApresentacao.h"
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1561315147 c:\users\trajano\pictures\trabalho em progresso\codigo\comandosapresentacao.h
+	"interfaces.h"
+
+1561444030 source:c:\users\trajano\pictures\trabalho em progresso\codigo\container.cpp
+	"container.h"
+	"entidades.h"
+	"dominios.h"
+	"auxiliar.h"
+	"curses.h"
+
+1561442294 source:c:\users\trajano\pictures\trabalho em progresso\codigo\controladorasapresentacao.cpp
+	<iostream>
+	"entidades.h"
+	"dominios.h"
+	"controladorasApresentacao.h"
+	"curses.h"
+	"stubs.h"
+	"comandosApresentacao.h"
+	<string>
+
+1561442216 source:c:\users\trajano\pictures\trabalho em progresso\codigo\controladorasservico.cpp
+	"controladorasServico.h"
+	"container.h"
+	"entidades.h"
+	"dominios.h"
+	"curses.h"
+
+1556589159 source:c:\users\trajano\pictures\trabalho em progresso\codigo\dominios.cpp
+	<iostream>
+	<cctype>
+	<sstream>
+	"dominios.h"
+
+1561384847 source:c:\users\trajano\pictures\trabalho em progresso\codigo\entidades.cpp
+	"entidades.h"
+
+1561351371 source:c:\users\trajano\pictures\trabalho em progresso\codigo\main.cpp
+	<iostream>
+	"dominios.h"
+	"testesDominio.h"
+	"testesEntidade.h"
+	"interfaces.h"
+	"controladorasApresentacao.h"
+	"stubs.h"
+	"curses.h"
+	"builder.h"
+	"container.h"
+	"comandosApresentacao.h"
+
+1556343501 c:\users\trajano\pictures\trabalho em progresso\codigo\testesdominio.h
+	<string>
+	"dominios.h"
+
+1556331844 c:\users\trajano\pictures\trabalho em progresso\codigo\testesentidade.h
+	"entidades.h"
+
+1561336700 source:c:\users\trajano\pictures\trabalho em progresso\codigo\stubs.cpp
+	"stubs.h"
+	"curses.h"
+
+1556587957 source:c:\users\trajano\pictures\trabalho em progresso\codigo\testesdominio.cpp
+	"testesDominio.h"
+	<iostream>
+
+1556332080 source:c:\users\trajano\pictures\trabalho em progresso\codigo\testesentidade.cpp
+	"testesEntidade.h"
+	<iostream>
+
+1561387068 source:c:\users\mathe\pictures\trabalho em progresso\codigo\auxiliar.cpp
+	"auxiliar.h"
+	<sstream>
+
+1561387267 c:\users\mathe\pictures\trabalho em progresso\codigo\auxiliar.h
+	"dominios.h"
+	"entidades.h"
+
+1556589300 c:\users\mathe\pictures\trabalho em progresso\codigo\dominios.h
+	<stdexcept>
+
+1561385688 c:\users\mathe\pictures\trabalho em progresso\codigo\entidades.h
+	"dominios.h"
+
+1561426069 source:c:\users\mathe\pictures\trabalho em progresso\codigo\builder.cpp
+	"builder.h"
+	"interfaces.h"
+	"controladorasApresentacao.h"
+	"stubs.h"
+	"container.h"
+	"dominios.h"
+	"controladorasServico.h"
+
+1561342939 c:\users\mathe\pictures\trabalho em progresso\codigo\builder.h
+
+1561354171 c:\users\mathe\pictures\trabalho em progresso\codigo\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	"auxiliar.h"
+	"curses.h"
+	"container.h"
+	<list>
+
+1556320570 c:\users\mathe\pictures\trabalho em progresso\codigo\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1561444300 c:\users\mathe\pictures\trabalho em progresso\codigo\container.h
+	"entidades.h"
+	<list>
+
+1561346773 c:\users\mathe\pictures\trabalho em progresso\codigo\controladorasapresentacao.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1561330917 c:\users\mathe\pictures\trabalho em progresso\codigo\stubs.h
+	<iostream>
+	<string>
+	"curses.h"
+	"interfaces.h"
+
+1561394838 c:\users\mathe\pictures\trabalho em progresso\codigo\controladorasservico.h
+	"interfaces.h"
+	"container.h"
+
+1561442644 source:c:\users\mathe\pictures\trabalho em progresso\codigo\comandosapresentacao.cpp
+	"comandosApresentacao.h"
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1561315147 c:\users\mathe\pictures\trabalho em progresso\codigo\comandosapresentacao.h
+	"interfaces.h"
+
+1561442294 source:c:\users\mathe\pictures\trabalho em progresso\codigo\controladorasapresentacao.cpp
+	<iostream>
+	"entidades.h"
+	"dominios.h"
+	"controladorasApresentacao.h"
+	"curses.h"
+	"stubs.h"
+	"comandosApresentacao.h"
+	<string>
+
+1556589159 source:c:\users\mathe\pictures\trabalho em progresso\codigo\dominios.cpp
+	<iostream>
+	<cctype>
+	<sstream>
+	"dominios.h"
+
+1561384847 source:c:\users\mathe\pictures\trabalho em progresso\codigo\entidades.cpp
+	"entidades.h"
+
+1561351371 source:c:\users\mathe\pictures\trabalho em progresso\codigo\main.cpp
+	<iostream>
+	"dominios.h"
+	"testesDominio.h"
+	"testesEntidade.h"
+	"interfaces.h"
+	"controladorasApresentacao.h"
+	"stubs.h"
+	"curses.h"
+	"builder.h"
+	"container.h"
+	"comandosApresentacao.h"
+
+1556343501 c:\users\mathe\pictures\trabalho em progresso\codigo\testesdominio.h
+	<string>
+	"dominios.h"
+
+1556331844 c:\users\mathe\pictures\trabalho em progresso\codigo\testesentidade.h
+	"entidades.h"
+
+1561336700 source:c:\users\mathe\pictures\trabalho em progresso\codigo\stubs.cpp
+	"stubs.h"
+	"curses.h"
+
+1556587957 source:c:\users\mathe\pictures\trabalho em progresso\codigo\testesdominio.cpp
+	"testesDominio.h"
+	<iostream>
+
+1556332080 source:c:\users\mathe\pictures\trabalho em progresso\codigo\testesentidade.cpp
+	"testesEntidade.h"
+	<iostream>
+
+1561496929 source:c:\users\mathe\pictures\trabalho em progresso\codigo\container.cpp
+	"container.h"
+	"entidades.h"
+	"dominios.h"
+	"auxiliar.h"
+	"curses.h"
+
+1561444263 source:c:\users\mathe\pictures\trabalho em progresso\codigo\controladorasservico.cpp
+	"controladorasServico.h"
+	"container.h"
+	"entidades.h"
+	"dominios.h"
+	"curses.h"
+

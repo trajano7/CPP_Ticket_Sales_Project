@@ -1,0 +1,7 @@
+Aluno: Matheus Trajano do Nascimento
+Matricula: 17/0152227
+
+Versão do codeblocks: 17.12
+
+As unicas partes nao implementadas foram a exclusao de evento e de usuario por parte
+da camada de servico.
